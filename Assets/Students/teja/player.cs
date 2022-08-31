@@ -7,17 +7,12 @@ public class player : MonoBehaviour
 
     private GameObject triggeringnpc;
     private bool triggring;
-   
-
-    
-
+  
     // Update is called once per frame
     void Update()
 
 
     {
-
-        
 
         if (triggring)
         {
